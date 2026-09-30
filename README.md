@@ -15,13 +15,14 @@ WHAT I DO
 → JavaScript
 → Cybersecurity
 → UI / UX
+→ AI specialist
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 TECHNOLOGIES
 
 HTML • CSS • JavaScript • Git • GitHub
-Python • Linux • Networking
+Python • Linux • Networking • AI
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
