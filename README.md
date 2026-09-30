@@ -44,7 +44,7 @@ Personal developer portfolio
 
 CURRENTLY LEARNING
 
-JavaScript
+React.js
 Cybersecurity
 Linux
 Networking
