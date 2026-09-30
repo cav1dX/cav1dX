@@ -1,16 +1,57 @@
-## Hi there 👋
+Hi, I'm Cavid 👋
 
-<!--
-**cav1dX/cav1dX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer & Cybersecurity Enthusiast
+from Azerbaijan 🇦🇿
 
-Here are some ideas to get you started:
+I build modern web experiences and explore
+cybersecurity, programming and web technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+WHAT I DO
+
+→ Frontend Development
+→ Web Design & Development
+→ JavaScript
+→ Cybersecurity
+→ UI / UX
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+TECHNOLOGIES
+
+HTML • CSS • JavaScript • Git • GitHub
+Python • Linux • Networking
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+FEATURED PROJECTS
+
+İçBax
+Advertising platform for businesses in Azerbaijan
+
+Restaurant Website
+Responsive restaurant website with reservation system
+
+Paddle Baku
+Modern event / sports website
+
+Portfolio
+Personal developer portfolio
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+CURRENTLY LEARNING
+
+JavaScript
+Cybersecurity
+Linux
+Networking
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+LET'S CONNECT
+
+Portfolio
+LinkedIn
+Instagram
