@@ -50,8 +50,4 @@ Networking
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-LET'S CONNECT
 
-Portfolio
-LinkedIn
-Instagram
