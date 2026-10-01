@@ -50,3 +50,10 @@ Linux
 Networking
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+A PROJECT CURRENTLY UNDER DEVELOPMENT 
+
+<img width="1901" height="911" alt="Снимок экрана 2026-09-30 162817" src="https://github.com/user-attachments/assets/e0a1c010-73aa-4276-a3fd-f60071671979" />
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
