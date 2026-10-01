@@ -53,7 +53,8 @@ Networking
 
 A PROJECT CURRENTLY UNDER DEVELOPMENT 
 
-<img width="1901" height="911" alt="Снимок экрана 2026-09-30 162817" src="https://github.com/user-attachments/assets/e0a1c010-73aa-4276-a3fd-f60071671979" />
+<img width="1897" height="1078" alt="Снимок экрана 2026-10-01 180850" src="https://github.com/user-attachments/assets/29402211-af79-4530-a0c4-ceb141619b05" />
+
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
